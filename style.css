@@ -1,0 +1,17 @@
+body{
+    background: #E2E8DD;
+}
+.Header{
+    background-color: grey;
+    color: whitesmoke;
+}
+.footer{
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    background-color: whitesmoke;
+    width: 100%;
+}
+button{
+    width: 100px;
+}
